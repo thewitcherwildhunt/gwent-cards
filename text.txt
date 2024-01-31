@@ -1,0 +1,11 @@
+id
+attributes
+name
+category
+ability
+ability_html
+keyword_html
+flavor
+{'id': {'art': 1007, 'card': 112101, 'audio': 1207}, 'attributes': {'set': 'BaseSet', 'type': 'Unit', 'armor': 0, 'color': 'Gold', 'power': 4, 'reach': 0, 'artist': 'Anna Podedworna', 'rarity': 'Legendary', 'faction': 'Neutral', 'related': '', 'provision': 9, 'factionSecondary': ''}, 'name': 'Ciri', 'category': 'Witcher', 'ability': 'Deploy: Damage 3 enemy units by 1.\nWhen you lose a round, move self back to your hand.\n', 'ability_html': '<span class="keyword deploy">Deploy</span>: Damage 3 enemy units by 1.\nWhen you lose a round, move self back to your hand.\n', 'keyword_html': '<span class="keyword">Deploy:</span> Trigger this ability when played.', 'flavor': 'I go wherever I please, whenever I please.'}
+
+Process finished with exit code 0
